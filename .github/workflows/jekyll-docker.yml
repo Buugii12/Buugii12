@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html lang="mgl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUUGII Movie Site</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <header>
+        <h1>buugii Movie Site</h1>
+      <video autoplay="" controls=""
+        loop="" width="100%">
+        <source src="View.mp4" type="
+          video/mp4">
+      </video>
+      <a href="google.com">google</a>
+    </header>
+    <main id="movies-container">
+        <!-- Movie cards will be dynamically added here -->
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
